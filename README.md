@@ -9,7 +9,6 @@
   - [OpenSCAD](#openscad)
   - [Others](#others)
   - [Python](#python)
-  - [Shell](#shell)
 
 ## C++ 
 
@@ -27,10 +26,6 @@
 ## Python 
 
 - [CurrentResident/BoardBuilder](https://github.com/CurrentResident/BoardBuilder) - Generate keyboard plate OpenSCAD drawings from keyboard-layout-editor.com JSON files
-
-## Shell 
-
-- [Manjaro-Sway/desktop-settings](https://github.com/Manjaro-Sway/desktop-settings) - 
 
 
 ## License
