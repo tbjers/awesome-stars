@@ -5,27 +5,6 @@
 
 ## Contents
 
-  - [C++](#c++)
-  - [OpenSCAD](#openscad)
-  - [Others](#others)
-  - [Python](#python)
-
-## C++ 
-
-- [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
-
-## OpenSCAD 
-
-- [revarbat/BOSL](https://github.com/revarbat/BOSL) - The Belfry OpenScad Library - A library of tools, shapes, and helpers to make OpenScad easier to use.
-
-## Others 
-
-- [Manjaro-Sway/manjaro-sway](https://github.com/Manjaro-Sway/manjaro-sway) - 🚧 manjaro linux with wayland 🖼, sway 🌴 and a lot of ♥
-- [NascentMaker/tkg-toolkit](https://github.com/NascentMaker/tkg-toolkit) - A collection of tools used for supporting TKG (TMK Keymap Generator).
-
-## Python 
-
-- [CurrentResident/BoardBuilder](https://github.com/CurrentResident/BoardBuilder) - Generate keyboard plate OpenSCAD drawings from keyboard-layout-editor.com JSON files
 
 
 ## License
