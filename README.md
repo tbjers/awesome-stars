@@ -6,7 +6,6 @@
 ## Contents
 
   - [C](#c)
-  - [C#](#c#)
   - [C++](#c++)
   - [CSS](#css)
   - [CoffeeScript](#coffeescript)
@@ -35,22 +34,17 @@
 - [Tiggilyboo/vanny-hub](https://github.com/Tiggilyboo/vanny-hub) - My van's embedded monitoring platform, using Modbus over RS-485 and RS-232.
 - [LibreDWG/libredwg](https://github.com/LibreDWG/libredwg) - Official mirror of libredwg. With CI hooks and nightly releases. PR's ok
 
-## C# # 
-
-- [zacbre/Socks5](https://github.com/zacbre/Socks5) - A full-fledged high-performance socks5 proxy server written in C#. Plugin support included.
-
 ## C++ 
 
 - [Seithan/EasyNextionLibrary](https://github.com/Seithan/EasyNextionLibrary) - A simple library for Nextion display that uses only four functions. You can easily benefit from Nextion's wide range of features and advantages in just a few easy steps. The library uses a custom protocol that can prove to be a powerful tool for advanced users as it can be easily modified to meet one’s needs.
 
 ## CSS 
 
+- [assemble/assemble](https://github.com/assemble/assemble) - Get the rocks out of your socks! Assemble makes you fast at web development! Used by thousands of projects for rapid prototyping, themes, scaffolds, boilerplates, e-books, UI components, API documentation, blogs, building websites/static site generator, an alternative to Jekyll for gh-pages and more! Gulp- and grunt-friendly.
 - [TheGreatMcPain/gruvbox-material-gtk](https://github.com/TheGreatMcPain/gruvbox-material-gtk) - Gruvbox Material for GTK, Gnome, Cinnamon, XFCE, Unity, Plank and Icons
 - [picturepan2/spectre](https://github.com/picturepan2/spectre) - Spectre.css - A Lightweight, Responsive and Modern CSS Framework
 - [graphql-elixir/phoenix-hipster-stack](https://github.com/graphql-elixir/phoenix-hipster-stack) - Phoenix, Docker, Webpack, React, GraphQL, Relay, Flow, Eslint, Immutable.js, Jest and RethinkDB
 - [jorgepedret/harp-project-hub](https://github.com/jorgepedret/harp-project-hub) - A Harp Boilerplate for Brad Frost’s Project Hub HTML template
-- [meteor-charlotte/website](https://github.com/meteor-charlotte/website) - Meteor Charlotte Website
-- [assemble/assemble](https://github.com/assemble/assemble) - Get the rocks out of your socks! Assemble makes you fast at web development! Used by thousands of projects for rapid prototyping, themes, scaffolds, boilerplates, e-books, UI components, API documentation, blogs, building websites/static site generator, an alternative to Jekyll for gh-pages and more! Gulp- and grunt-friendly.
 
 ## CoffeeScript 
 
