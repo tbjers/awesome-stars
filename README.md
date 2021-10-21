@@ -153,6 +153,7 @@
 
 ## Ruby 
 
+- [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 - [eliotsykes/rspec-rails-examples](https://github.com/eliotsykes/rspec-rails-examples) - RSpec cheatsheet & Rails app: Learn how to expertly test Rails apps from a model codebase
 - [janosrusiczki/japr](https://github.com/janosrusiczki/japr) - Jekyll Asset Pipeline Reborn - Powerful asset pipeline for Jekyll that collects, converts and compresses JavaScript and CSS assets.
 - [slogsdon/vagrant-phalcon](https://github.com/slogsdon/vagrant-phalcon) - a template for using Vagrant for developing PHP applications with Phalcon
