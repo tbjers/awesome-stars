@@ -124,6 +124,7 @@
 
 ## Others 
 
+- [arturo182/BBQ10KBD](https://github.com/arturo182/BBQ10KBD) - 
 - [printesoi/kde-gruvbox](https://github.com/printesoi/kde-gruvbox) - A suite of themes for KDE applications that match the retro gruvbox colorscheme
 - [nodejs/modules](https://github.com/nodejs/modules) - Node.js Modules Team
 
