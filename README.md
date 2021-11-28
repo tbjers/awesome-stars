@@ -23,6 +23,7 @@
   - [Puppet](#puppet)
   - [Python](#python)
   - [Ruby](#ruby)
+  - [Rust](#rust)
   - [Shell](#shell)
   - [TypeScript](#typescript)
   - [Vim script](#vim-script)
@@ -168,6 +169,10 @@
 - [zroger/jekyll-less](https://github.com/zroger/jekyll-less) - Less CSS converter for Jekyll
 - [pygments/pygments.rb](https://github.com/pygments/pygments.rb) - 💎 Ruby wrapper for Pygments syntax highlighter
 - [lawrencewoodman/related_posts-jekyll_plugin](https://github.com/lawrencewoodman/related_posts-jekyll_plugin) - Replaces jekyll's related_posts function to use tags to calculate relationships
+
+## Rust 
+
+- [wcampbell0x2a/adsb_deku](https://github.com/wcampbell0x2a/adsb_deku) - ✈️ Rust ADS-B decoder + tui radar application
 
 ## Shell 
 
