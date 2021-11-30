@@ -172,7 +172,7 @@
 
 ## Rust 
 
-- [wcampbell0x2a/adsb_deku](https://github.com/wcampbell0x2a/adsb_deku) - ✈️ Rust ADS-B decoder + tui radar application
+- [rsadsb/adsb_deku](https://github.com/rsadsb/adsb_deku) - ✈️ Rust ADS-B decoder + tui radar application
 
 ## Shell 
 
