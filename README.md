@@ -147,6 +147,7 @@
 
 ## Python 
 
+- [Orange-Foundation/edupi](https://github.com/Orange-Foundation/edupi) - A light-weight content management Web application
 - [afewmail/afew](https://github.com/afewmail/afew) - an initial tagging script for notmuch mail
 - [pazz/alot](https://github.com/pazz/alot) - Terminal-based Mail User Agent
 - [belluzj/fantasque-sans](https://github.com/belluzj/fantasque-sans) - A font family with a great monospaced variant for programmers.
