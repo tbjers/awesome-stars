@@ -40,7 +40,7 @@
 ## C++ 
 
 - [neo-ai/neo-ai-dlr](https://github.com/neo-ai/neo-ai-dlr) - Neo-AI-DLR is a common runtime for machine learning models compiled by AWS SageMaker Neo, TVM, or TreeLite.
-- [arkhipenko/TaskScheduler](https://github.com/arkhipenko/TaskScheduler) - Cooperative multitasking for Arduino, ESPx and STM32 microcontrollers
+- [arkhipenko/TaskScheduler](https://github.com/arkhipenko/TaskScheduler) - Cooperative multitasking for Arduino, ESPx, STM32, nRF and other microcontrollers
 - [adafruit/Adafruit_ILI9341](https://github.com/adafruit/Adafruit_ILI9341) - Library for Adafruit ILI9341 displays
 - [arturo182/arduino_bbq10kbd](https://github.com/arturo182/arduino_bbq10kbd) - 
 - [Seithan/EasyNextionLibrary](https://github.com/Seithan/EasyNextionLibrary) - A simple library for Nextion display that uses only four functions. You can easily benefit from Nextion's wide range of features and advantages in just a few easy steps. The library uses a custom protocol that can prove to be a powerful tool for advanced users as it can be easily modified to meet one’s needs.
