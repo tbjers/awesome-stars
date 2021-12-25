@@ -147,6 +147,7 @@
 
 ## Python 
 
+- [NascentMaker/AirQualityStation](https://github.com/NascentMaker/AirQualityStation) - A MagTag-powered air quality monitor for indoor use.
 - [Orange-Foundation/edupi](https://github.com/Orange-Foundation/edupi) - A light-weight content management Web application
 - [afewmail/afew](https://github.com/afewmail/afew) - an initial tagging script for notmuch mail
 - [pazz/alot](https://github.com/pazz/alot) - Terminal-based Mail User Agent
