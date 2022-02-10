@@ -131,6 +131,7 @@
 
 ## Others 
 
+- [AlexanderBrevig/kicad-gruvbox-theme](https://github.com/AlexanderBrevig/kicad-gruvbox-theme) - Gruvbox for KiCAD - THE FUTURE IS HERE
 - [arturo182/BBQ10KBD](https://github.com/arturo182/BBQ10KBD) - 
 - [printesoi/kde-gruvbox](https://github.com/printesoi/kde-gruvbox) - A suite of themes for KDE applications that match the retro gruvbox colorscheme
 - [nodejs/modules](https://github.com/nodejs/modules) - Node.js Modules Team
@@ -147,6 +148,7 @@
 
 ## Python 
 
+- [egilkv/KiJLC](https://github.com/egilkv/KiJLC) - KiCad BOM and CPL export for JLCSMT
 - [natekspencer/hacs-vivint](https://github.com/natekspencer/hacs-vivint) - Home Assistant integration for a Vivint home security system.
 - [NascentMaker/AirQualityStation](https://github.com/NascentMaker/AirQualityStation) - A MagTag-powered air quality monitor for indoor use.
 - [Orange-Foundation/edupi](https://github.com/Orange-Foundation/edupi) - A light-weight content management Web application
