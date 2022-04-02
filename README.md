@@ -148,6 +148,8 @@
 
 ## Python 
 
+- [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
+- [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [ifurusato/kros-core](https://github.com/ifurusato/kros-core) - KROS Core provides the core functionality of a K-Series Robot Operating System (KROS), a Raspberry Pi based robot written in Python 3.
 - [egilkv/KiJLC](https://github.com/egilkv/KiJLC) - KiCad BOM and CPL export for JLCSMT
 - [natekspencer/hacs-vivint](https://github.com/natekspencer/hacs-vivint) - Home Assistant integration for a Vivint home security system.
