@@ -27,7 +27,6 @@
   - [Shell](#shell)
   - [TypeScript](#typescript)
   - [Vim script](#vim-script)
-  - [VimL](#viml)
 
 ## C 
 
@@ -43,11 +42,11 @@
 - [arkhipenko/TaskScheduler](https://github.com/arkhipenko/TaskScheduler) - Cooperative multitasking for Arduino, ESPx, STM32, nRF and other microcontrollers
 - [adafruit/Adafruit_ILI9341](https://github.com/adafruit/Adafruit_ILI9341) - Library for Adafruit ILI9341 displays
 - [arturo182/arduino_bbq10kbd](https://github.com/arturo182/arduino_bbq10kbd) - 
-- [Seithan/EasyNextionLibrary](https://github.com/Seithan/EasyNextionLibrary) - A simple library for Nextion display that uses only four functions. You can easily benefit from Nextion's wide range of features and advantages in just a few easy steps. The library uses a custom protocol that can prove to be a powerful tool for advanced users as it can be easily modified to meet one’s needs.
+- [Seithan/EasyNextionLibrary](https://github.com/Seithan/EasyNextionLibrary) - A simple library for Nextion display that uses only four functions. You can easily benefit from Nextion's wide range of features and advantages in just a few easy steps. The library uses a custom prot
 
 ## CSS 
 
-- [assemble/assemble](https://github.com/assemble/assemble) - Get the rocks out of your socks! Assemble makes you fast at web development! Used by thousands of projects for rapid prototyping, themes, scaffolds, boilerplates, e-books, UI components, API documentation, blogs, building websites/static site generator, an alternative to Jekyll for gh-pages and more! Gulp- and grunt-friendly.
+- [assemble/assemble](https://github.com/assemble/assemble) - Get the rocks out of your socks! Assemble makes you fast at web development! Used by thousands of projects for rapid prototyping, themes, scaffolds, boilerplates, e-books, UI components, API documenta
 - [TheGreatMcPain/gruvbox-material-gtk](https://github.com/TheGreatMcPain/gruvbox-material-gtk) - Gruvbox Material for GTK, Gnome, Cinnamon, XFCE, Unity, Plank and Icons
 - [picturepan2/spectre](https://github.com/picturepan2/spectre) - Spectre.css - A Lightweight, Responsive and Modern CSS Framework
 - [graphql-elixir/phoenix-hipster-stack](https://github.com/graphql-elixir/phoenix-hipster-stack) - Phoenix, Docker, Webpack, React, GraphQL, Relay, Flow, Eslint, Immutable.js, Jest and RethinkDB
@@ -105,11 +104,11 @@
 - [jkotchoff/Alloy-PullToRefresh](https://github.com/jkotchoff/Alloy-PullToRefresh) - Pull to refresh widget for Titanium Alloy applications.
 - [jkotchoff/Alloy-PullToRefresh-Example](https://github.com/jkotchoff/Alloy-PullToRefresh-Example) - Example implementation of https://github.com/cornflakesuperstar/Alloy-PullToRefresh using a ListView Collection
 - [nodeca/pako](https://github.com/nodeca/pako) - high speed zlib port to javascript, works in browser & node.js
-- [newrelic/node-newrelic](https://github.com/newrelic/node-newrelic) - New Relic Node.js agent code base. Developers are welcome to create pull requests here, please see our contributing guidelines. For New Relic technical support, please go to http://support.newrelic.com.
+- [newrelic/node-newrelic](https://github.com/newrelic/node-newrelic) - New Relic Node.js agent code base. Developers are welcome to create pull requests here, please see our contributing guidelines. For New Relic technical support, please go to http://support.newrelic.co
 - [caolan/async](https://github.com/caolan/async) - Async utilities for node and the browser
 - [indexzero/nconf](https://github.com/indexzero/nconf) - Hierarchical node.js configuration with files, environment variables, command-line arguments, and atomic object merging.
-- [mongodb/node-mongodb-native](https://github.com/mongodb/node-mongodb-native) - The Official MongoDB Node.js Driver
 - [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
+- [mongodb/node-mongodb-native](https://github.com/mongodb/node-mongodb-native) - The Official MongoDB Node.js Driver
 
 ## Jinja 
 
@@ -140,7 +139,7 @@
 
 - [petebrowne/slim-layout-view](https://github.com/petebrowne/slim-layout-view) - A Custom View supporting Layouts for the Slim Framework.
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension.
-- [blueimp/jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads.
+- [blueimp/jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads.
 
 ## Puppet 
 
@@ -178,8 +177,8 @@
 - [imathis/octopress](https://github.com/imathis/octopress) - Octopress is an obsessively designed framework for Jekyll blogging. It’s easy to configure and easy to deploy. Sweet huh?
 - [middleman/middleman](https://github.com/middleman/middleman) - Hand-crafted frontend development
 - [zroger/jekyll-less](https://github.com/zroger/jekyll-less) - Less CSS converter for Jekyll
-- [pygments/pygments.rb](https://github.com/pygments/pygments.rb) - 💎 Ruby wrapper for Pygments syntax highlighter
 - [lawrencewoodman/related_posts-jekyll_plugin](https://github.com/lawrencewoodman/related_posts-jekyll_plugin) - Replaces jekyll's related_posts function to use tags to calculate relationships
+- [pygments/pygments.rb](https://github.com/pygments/pygments.rb) - 💎 Ruby wrapper for Pygments syntax highlighter
 
 ## Rust 
 
@@ -199,9 +198,6 @@
 - [chunkhang/vim-mbsync](https://github.com/chunkhang/vim-mbsync) - Syntax highlighting for mbsyncrc
 - [morhetz/gruvbox](https://github.com/morhetz/gruvbox) - Retro groove color scheme for Vim
 - [sainnhe/gruvbox-material](https://github.com/sainnhe/gruvbox-material) - Gruvbox with Material Palette
-
-## VimL 
-
 - [hallison/vim-markdown](https://github.com/hallison/vim-markdown) - Markdown syntax highlight for Vim editor with snippets support
 
 
