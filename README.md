@@ -76,7 +76,6 @@
 
 ## HTML 
 
-- [WICG/import-maps](https://github.com/WICG/import-maps) - How to control the behavior of JavaScript imports
 - [foundation/foundation-emails-template](https://github.com/foundation/foundation-emails-template) - Official template for new Foundation for Emails projects.
 - [saimusdev/dash-phalcon](https://github.com/saimusdev/dash-phalcon) - Phalcon PHP documentation for Dash
 
