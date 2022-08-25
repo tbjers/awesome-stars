@@ -26,7 +26,7 @@
 - [Rust](#rust)
 - [Shell](#shell)
 - [TypeScript](#typescript)
-- [Vim script](#vim-script)
+- [Vim Script](#vim-script)
 
 ## C 
 
@@ -193,7 +193,7 @@
 - [solvvy/redact-pii](https://github.com/solvvy/redact-pii) - Remove personally identifiable information from text.
 - [mongodb/node-mongodb-native](https://github.com/mongodb/node-mongodb-native) - The Official MongoDB Node.js Driver
 
-## Vim script 
+## Vim Script 
 
 - [chunkhang/vim-mbsync](https://github.com/chunkhang/vim-mbsync) - Syntax highlighting for mbsyncrc
 - [morhetz/gruvbox](https://github.com/morhetz/gruvbox) - Retro groove color scheme for Vim
