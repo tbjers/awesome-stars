@@ -161,7 +161,7 @@
 - [labd/django-perms-provisioner](https://github.com/labd/django-perms-provisioner) - Provision Django instances with groups and permissions
 - [twu/skjold](https://github.com/twu/skjold) - Security audit Python project dependencies against security advisory databases.
 - [aaronn/django-rest-framework-passwordless](https://github.com/aaronn/django-rest-framework-passwordless) - Passwordless Auth for Django REST Framework
-- [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
+- [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [progval/Limnoria](https://github.com/progval/Limnoria) - A robust, full-featured, and user/programmer-friendly Python IRC bot, with many existing plugins. Successor of the well-known Supybot.
 - [kemayo/sublime-text-git](https://github.com/kemayo/sublime-text-git) - Plugin for some git integration into sublime text
 
