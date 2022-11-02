@@ -32,7 +32,7 @@
 
 - [tio/tio](https://github.com/tio/tio) - A simple serial device I/O tool
 - [adafruit/circuitpython](https://github.com/adafruit/circuitpython) - CircuitPython - a Python implementation for teaching coding with microcontrollers
-- [Airblader/i3](https://github.com/Airblader/i3) - A fork of the i3 window manager with gaps and some other features
+- [Airblader/i3](https://github.com/Airblader/i3) - A fork of the i3 window manager with gaps and some other features. :warning: i3-gaps has been merged into i3.
 - [Tiggilyboo/vanny-hub](https://github.com/Tiggilyboo/vanny-hub) - My van's embedded monitoring platform, using Modbus over RS-485 and RS-232.
 - [LibreDWG/libredwg](https://github.com/LibreDWG/libredwg) - Official mirror of libredwg. With CI hooks and nightly releases. PR's ok
 
