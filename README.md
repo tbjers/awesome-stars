@@ -67,6 +67,7 @@
 
 ## Go 
 
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [cli/oauth](https://github.com/cli/oauth) - A library for performing OAuth Device flow and Web application flow in Go client apps.
 - [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [aws/aws-xray-sdk-go](https://github.com/aws/aws-xray-sdk-go) - AWS X-Ray SDK for the Go programming language.
