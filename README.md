@@ -137,6 +137,9 @@
 
 ## Others 
 
+- [kerberos-io/hub](https://github.com/kerberos-io/hub) - A scalable single pane of glass for your ever growing surveillance landscape with dashboards, analytics, notifications, device management, sites and grouping.
+- [kerberos-io/vault](https://github.com/kerberos-io/vault) - Bring Your Own Storage, implement your own apps and scale your machine learning.
+- [kerberos-io/factory](https://github.com/kerberos-io/factory) - An enterprise ready, resilient and horizontal scalable solution for large video landscapes.
 - [AlexanderBrevig/kicad-gruvbox-theme](https://github.com/AlexanderBrevig/kicad-gruvbox-theme) - Gruvbox for KiCAD - THE FUTURE IS HERE
 - [arturo182/BBQ10KBD](https://github.com/arturo182/BBQ10KBD) - 
 - [printesoi/kde-gruvbox](https://github.com/printesoi/kde-gruvbox) - A suite of themes for KDE applications that match the retro gruvbox colorscheme
