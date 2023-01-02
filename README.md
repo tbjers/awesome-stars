@@ -17,6 +17,7 @@
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
 - [Kotlin](#kotlin)
+- [Nix](#nix)
 - [Objective-C](#objective-c)
 - [OpenSCAD](#openscad)
 - [Others](#others)
@@ -126,6 +127,10 @@
 
 - [andstatus/andstatus](https://github.com/andstatus/andstatus) - Multiple accounts client for multiple Social networks. For Android
 
+## Nix 
+
+- [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
+
 ## Objective-C 
 
 - [BuddyBuild/Custom-Testing](https://github.com/BuddyBuild/Custom-Testing) - 
@@ -158,6 +163,7 @@
 
 ## Python 
 
+- [ManuelArto/KDEServices-AlbertExtension](https://github.com/ManuelArto/KDEServices-AlbertExtension) - Python extension for Albert launcher that provides completion for KDE Services
 - [lae/ansible-role-proxmox](https://github.com/lae/ansible-role-proxmox) - Deploys and configures Proxmox VE 6.x/7.x clusters.
 - [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
