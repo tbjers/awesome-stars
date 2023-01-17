@@ -164,6 +164,7 @@
 
 ## Python 
 
+- [NascentMaker/scadi](https://github.com/NascentMaker/scadi) - SCAD Inliner: Roll up OpenSCAD includes into the main file for easy sharing.
 - [ManuelArto/KDEServices-AlbertExtension](https://github.com/ManuelArto/KDEServices-AlbertExtension) - Python extension for Albert launcher that provides completion for KDE Services
 - [lae/ansible-role-proxmox](https://github.com/lae/ansible-role-proxmox) - Deploys and configures Proxmox VE 6.x/7.x clusters.
 - [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
