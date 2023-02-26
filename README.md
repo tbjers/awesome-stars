@@ -99,7 +99,6 @@
 - [wojtekmaj/react-date-picker](https://github.com/wojtekmaj/react-date-picker) - A date picker for your React app.
 - [wojtekmaj/react-daterange-picker](https://github.com/wojtekmaj/react-daterange-picker) - A date range picker for your React app.
 - [Metnew/suicrux](https://github.com/Metnew/suicrux) - 🚀 Ultimate universal starter with lazy-loading, SSR and i18n. [not maintained]
-- [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [PitPik/tinyColorPicker](https://github.com/PitPik/tinyColorPicker) - Tiny jQuery color picker for mobile and desktop with alpha channel
 - [zakkak/workspace-grid](https://github.com/zakkak/workspace-grid) - 
@@ -214,6 +213,7 @@
 
 - [xbrowsersync/app](https://github.com/xbrowsersync/app) - xBrowserSync browser extensions / mobile app
 - [solvvy/redact-pii](https://github.com/solvvy/redact-pii) - Remove personally identifiable information from text.
+- [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [mongodb/node-mongodb-native](https://github.com/mongodb/node-mongodb-native) - The Official MongoDB Node.js Driver
 
 ## Vim Script 
