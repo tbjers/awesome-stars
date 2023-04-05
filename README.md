@@ -94,10 +94,6 @@
 
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
-- [wojtekmaj/react-time-picker](https://github.com/wojtekmaj/react-time-picker) - A time picker for your React app.
-- [wojtekmaj/react-datetime-picker](https://github.com/wojtekmaj/react-datetime-picker) - A datetime picker for your React app.
-- [wojtekmaj/react-date-picker](https://github.com/wojtekmaj/react-date-picker) - A date picker for your React app.
-- [wojtekmaj/react-daterange-picker](https://github.com/wojtekmaj/react-daterange-picker) - A date range picker for your React app.
 - [Metnew/suicrux](https://github.com/Metnew/suicrux) - 🚀 Ultimate universal starter with lazy-loading, SSR and i18n. [not maintained]
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [PitPik/tinyColorPicker](https://github.com/PitPik/tinyColorPicker) - Tiny jQuery color picker for mobile and desktop with alpha channel
@@ -212,6 +208,10 @@
 ## TypeScript 
 
 - [xbrowsersync/app](https://github.com/xbrowsersync/app) - xBrowserSync browser extensions / mobile app
+- [wojtekmaj/react-time-picker](https://github.com/wojtekmaj/react-time-picker) - A time picker for your React app.
+- [wojtekmaj/react-datetime-picker](https://github.com/wojtekmaj/react-datetime-picker) - A datetime picker for your React app.
+- [wojtekmaj/react-date-picker](https://github.com/wojtekmaj/react-date-picker) - A date picker for your React app.
+- [wojtekmaj/react-daterange-picker](https://github.com/wojtekmaj/react-daterange-picker) - A date range picker for your React app.
 - [solvvy/redact-pii](https://github.com/solvvy/redact-pii) - Remove personally identifiable information from text.
 - [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [mongodb/node-mongodb-native](https://github.com/mongodb/node-mongodb-native) - The Official MongoDB Node.js Driver
