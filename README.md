@@ -65,6 +65,7 @@
 
 ## Dockerfile 
 
+- [ublue-os/boxkit](https://github.com/ublue-os/boxkit) - A blingier starting image for Toolbx and Distrobox.
 - [visiblevc/wordpress-starter](https://github.com/visiblevc/wordpress-starter) - A slightly less shitty wordpress development workflow
 
 ## Elixir 
@@ -198,6 +199,7 @@
 
 ## Rust 
 
+- [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [rsadsb/adsb_deku](https://github.com/rsadsb/adsb_deku) - ✈️ Rust ADS-B decoder + tui radar application
 
 ## Sass 
