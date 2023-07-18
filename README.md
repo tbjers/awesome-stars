@@ -17,6 +17,7 @@
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
 - [Kotlin](#kotlin)
+- [Lua](#lua)
 - [Nix](#nix)
 - [Objective-C](#objective-c)
 - [OpenSCAD](#openscad)
@@ -124,6 +125,10 @@
 ## Kotlin 
 
 - [andstatus/andstatus](https://github.com/andstatus/andstatus) - Multiple accounts client for multiple Social networks. For Android
+
+## Lua 
+
+- [charludo/projectmgr.nvim](https://github.com/charludo/projectmgr.nvim) - Quickly switch between projects and automate startup tasks.
 
 ## Nix 
 
