@@ -95,7 +95,7 @@
 
 ## JavaScript 
 
-- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
 - [Metnew/suicrux](https://github.com/Metnew/suicrux) - 🚀 Ultimate universal starter with lazy-loading, SSR and i18n. [not maintained]
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
