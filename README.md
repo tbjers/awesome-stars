@@ -120,6 +120,7 @@
 
 ## Jinja 
 
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 - [geerlingguy/ansible-role-mysql](https://github.com/geerlingguy/ansible-role-mysql) - Ansible Role - MySQL
 
 ## Kotlin 
