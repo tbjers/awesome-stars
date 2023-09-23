@@ -18,6 +18,7 @@
 - [Jinja](#jinja)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
+- [Makefile](#makefile)
 - [Nix](#nix)
 - [Objective-C](#objective-c)
 - [OpenSCAD](#openscad)
@@ -131,6 +132,10 @@
 
 - [charludo/projectmgr.nvim](https://github.com/charludo/projectmgr.nvim) - Quickly switch between projects and automate startup tasks.
 
+## Makefile 
+
+- [ublue-os/bluefin](https://github.com/ublue-os/bluefin) - An interpretation of the Ubuntu spirit built on Fedora technology
+
 ## Nix 
 
 - [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
@@ -214,7 +219,6 @@
 
 ## Shell 
 
-- [ublue-os/bluefin](https://github.com/ublue-os/bluefin) - An interpretation of the Ubuntu spirit built on Fedora technology
 - [jpclipffel/ansible_collection.k8s](https://github.com/jpclipffel/ansible_collection.k8s) - Kubernetes collection
 - [Tecate/bitmap-fonts](https://github.com/Tecate/bitmap-fonts) - Monospaced bitmap fonts for X11, good for terminal use.
 - [nginx-proxy/acme-companion](https://github.com/nginx-proxy/acme-companion) - Automated ACME SSL certificate generation for nginx-proxy
