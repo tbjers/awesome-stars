@@ -65,7 +65,7 @@
 
 ## Dockerfile 
 
-- [ublue-os/boxkit](https://github.com/ublue-os/boxkit) - A blingier starting image for Toolbx and Distrobox.
+- [ublue-os/boxkit](https://github.com/ublue-os/boxkit) - Build your own custom OCI distrobox container
 - [visiblevc/wordpress-starter](https://github.com/visiblevc/wordpress-starter) - A slightly less shitty wordpress development workflow
 
 ## Elixir 
