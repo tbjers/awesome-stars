@@ -29,6 +29,7 @@
 - [Rust](#rust)
 - [Sass](#sass)
 - [Shell](#shell)
+- [Svelte](#svelte)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 
@@ -97,6 +98,7 @@
 
 ## JavaScript 
 
+- [beromir/servas-firefox-extension](https://github.com/beromir/servas-firefox-extension) - Firefox browser extension for the self-hosted bookmark management tool Servas.
 - [kerberos-io/factory](https://github.com/kerberos-io/factory) - An enterprise ready, resilient and horizontal scalable solution for large video landscapes.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
@@ -220,6 +222,10 @@
 - [jpclipffel/ansible_collection.k8s](https://github.com/jpclipffel/ansible_collection.k8s) - Kubernetes collection
 - [Tecate/bitmap-fonts](https://github.com/Tecate/bitmap-fonts) - Monospaced bitmap fonts for X11, good for terminal use.
 - [nginx-proxy/acme-companion](https://github.com/nginx-proxy/acme-companion) - Automated ACME SSL certificate generation for nginx-proxy
+
+## Svelte 
+
+- [beromir/Servas](https://github.com/beromir/Servas) - A self-hosted bookmark management tool.
 
 ## TypeScript 
 
