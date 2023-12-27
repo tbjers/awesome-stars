@@ -99,6 +99,7 @@
 
 ## JavaScript 
 
+- [mchilli/macropad](https://github.com/mchilli/macropad) - This is an Adafruit MacroPad script that allows you to manage your macros via a WebUI
 - [beromir/servas-firefox-extension](https://github.com/beromir/servas-firefox-extension) - Firefox browser extension for the self-hosted bookmark management tool Servas.
 - [kerberos-io/factory](https://github.com/kerberos-io/factory) - An enterprise ready, resilient and horizontal scalable solution for large video landscapes.
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
