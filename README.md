@@ -36,6 +36,7 @@
 
 ## C 
 
+- [tvlad1234/linux-ch32v003](https://github.com/tvlad1234/linux-ch32v003) - Linux on a $0.15 RISC-V microcontroller
 - [tio/tio](https://github.com/tio/tio) - A simple serial device I/O tool
 - [adafruit/circuitpython](https://github.com/adafruit/circuitpython) - CircuitPython - a Python implementation for teaching coding with microcontrollers
 - [Tiggilyboo/vanny-hub](https://github.com/Tiggilyboo/vanny-hub) - My van's embedded monitoring platform, using Modbus over RS-485 and RS-232.
