@@ -223,6 +223,7 @@
 
 ## Shell 
 
+- [ublue-os/toolboxes](https://github.com/ublue-os/toolboxes) - Centralized repository of containers designed for Toolbox/Distrobox
 - [ublue-os/bluefin](https://github.com/ublue-os/bluefin) - An interpretation of the Ubuntu spirit built on Fedora technology
 - [jpclipffel/ansible_collection.k8s](https://github.com/jpclipffel/ansible_collection.k8s) - Kubernetes collection
 - [Tecate/bitmap-fonts](https://github.com/Tecate/bitmap-fonts) - Monospaced bitmap fonts for X11, good for terminal use.
