@@ -154,6 +154,7 @@
 
 ## Others 
 
+- [eldritch-theme/warp](https://github.com/eldritch-theme/warp) - A theme for the Ancient Ones! (Warp Terminal)
 - [kerberos-io/hub](https://github.com/kerberos-io/hub) - A scalable single pane of glass for your ever growing surveillance landscape with dashboards, analytics, notifications, device management, sites and grouping.
 - [kerberos-io/vault](https://github.com/kerberos-io/vault) - Bring Your Own Storage, implement your own apps and scale your machine learning.
 - [AlexanderBrevig/kicad-gruvbox-theme](https://github.com/AlexanderBrevig/kicad-gruvbox-theme) - Gruvbox for KiCAD - THE FUTURE IS HERE
