@@ -177,7 +177,7 @@
 - [pimoroni/yukon](https://github.com/pimoroni/yukon) - 
 - [NascentMaker/scadi](https://github.com/NascentMaker/scadi) - SCAD Inliner: Roll up OpenSCAD includes into the main file for easy sharing.
 - [ManuelArto/KDEServices-AlbertExtension](https://github.com/ManuelArto/KDEServices-AlbertExtension) - Python extension for Albert launcher that provides completion for KDE Services
-- [lae/ansible-role-proxmox](https://github.com/lae/ansible-role-proxmox) - Deploys and configures Proxmox VE 6.x/7.x clusters.
+- [lae/ansible-role-proxmox](https://github.com/lae/ansible-role-proxmox) - IaC for Proxmox VE clusters.
 - [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [ifurusato/kros-core](https://github.com/ifurusato/kros-core) - KROS Core provides the core functionality of a K-Series Robot Operating System (KROS), a Raspberry Pi based robot written in Python 3.
