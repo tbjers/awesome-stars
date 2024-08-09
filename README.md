@@ -174,6 +174,7 @@
 
 ## Python 
 
+- [emporia-vue-local/esphome](https://github.com/emporia-vue-local/esphome) - Custom component for ESPHome to add support for the Emporia Vue 2 energy monitor
 - [pimoroni/yukon](https://github.com/pimoroni/yukon) - 
 - [NascentMaker/scadi](https://github.com/NascentMaker/scadi) - SCAD Inliner: Roll up OpenSCAD includes into the main file for easy sharing.
 - [ManuelArto/KDEServices-AlbertExtension](https://github.com/ManuelArto/KDEServices-AlbertExtension) - Python extension for Albert launcher that provides completion for KDE Services
