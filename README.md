@@ -79,6 +79,7 @@
 
 ## Go 
 
+- [StevenWeathers/thunderdome-planning-poker](https://github.com/StevenWeathers/thunderdome-planning-poker) - ⚡ Thunderdome is an open source agile planning poker, sprint retro, and story mapping tool
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
@@ -233,7 +234,6 @@
 
 ## Svelte 
 
-- [StevenWeathers/thunderdome-planning-poker](https://github.com/StevenWeathers/thunderdome-planning-poker) - ⚡ Thunderdome is an open source agile planning poker, sprint retro, and story mapping tool
 - [beromir/Servas](https://github.com/beromir/Servas) - A self-hosted bookmark management tool.
 
 ## TypeScript 
