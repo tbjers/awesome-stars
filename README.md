@@ -74,7 +74,7 @@
 
 ## Elixir 
 
-- [thechangelog/changelog.com](https://github.com/thechangelog/changelog.com) - Changelog is news and podcast for developers. This is our open source platform.
+- [thechangelog/changelog.com](https://github.com/thechangelog/changelog.com) - Changelog makes world-class developer pods. This is our open source platform.
 - [hassox/phoenix_guardian](https://github.com/hassox/phoenix_guardian) - A demo application showing usage of guardian and ueberauth
 
 ## Go 
