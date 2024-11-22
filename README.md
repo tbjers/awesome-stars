@@ -90,7 +90,7 @@
 - [cli/oauth](https://github.com/cli/oauth) - A library for performing OAuth Device flow and Web application flow in Go client apps.
 - [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [aws/aws-xray-sdk-go](https://github.com/aws/aws-xray-sdk-go) - AWS X-Ray SDK for the Go programming language.
-- [aws/aws-sdk-go](https://github.com/aws/aws-sdk-go) - AWS SDK for the Go programming language.
+- [aws/aws-sdk-go](https://github.com/aws/aws-sdk-go) - AWS SDK for the Go programming language (In Maintenance Mode, End-of-Life on 07/31/2025). The AWS SDK for Go v2 is available here: https://github.com/aws/aws-sdk-go-v2
 - [nzoschke/gofaas](https://github.com/nzoschke/gofaas) - A boilerplate Go and AWS Lambda app. Demonstrates an expert configuration of 10+ AWS services to support running Go functions-as-a-service (FaaS).
 - [distribution/distribution](https://github.com/distribution/distribution) - The toolkit to pack, ship, store, and deliver container content
 
