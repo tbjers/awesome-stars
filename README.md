@@ -69,7 +69,6 @@
 
 ## Dockerfile 
 
-- [ublue-os/boxkit](https://github.com/ublue-os/boxkit) - Build your own custom OCI distrobox container
 - [visiblevc/wordpress-starter](https://github.com/visiblevc/wordpress-starter) - A slightly less shitty wordpress development workflow
 
 ## Elixir 
@@ -227,6 +226,7 @@
 ## Shell 
 
 - [ublue-os/toolboxes](https://github.com/ublue-os/toolboxes) - Centralized repository of containers designed for Toolbox/Distrobox
+- [ublue-os/boxkit](https://github.com/ublue-os/boxkit) - Build your own custom OCI distrobox container
 - [ublue-os/bluefin](https://github.com/ublue-os/bluefin) - The next generation Linux workstation, designed for reliability, performance, and sustainability.
 - [jpclipffel/ansible_collection.k8s](https://github.com/jpclipffel/ansible_collection.k8s) - Kubernetes collection
 - [Tecate/bitmap-fonts](https://github.com/Tecate/bitmap-fonts) - Monospaced bitmap fonts for X11, good for terminal use.
